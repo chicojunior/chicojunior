@@ -16,7 +16,7 @@ I'm a frontend developer with 4+ years of experience in implementation and manit
 - :iphone: Via phone +55 85 99182-5226
 
 #### Some stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior)
 
 
 <!--
