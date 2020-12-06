@@ -15,6 +15,10 @@ I'm a frontend developer with 4+ years of experience in implementation and manit
 - :page_with_curl: Via [LinkedIn](https://www.linkedin.com/in/franciscovale/)
 - :iphone: Via phone +55 85 99182-5226
 
+#### Some stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&theme=tokyonight)
+
+
 <!--
 **chicojunior/chicojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
