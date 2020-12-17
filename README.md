@@ -16,7 +16,7 @@ I'm a frontend developer with 4+ years of experience in implementation and manit
 - :iphone: Via phone +55 85 99182-5226
 
 #### Some stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chicojunior&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&layout=compact&theme=dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chicojunior&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&layout=compact&theme=merko)
 
 
 
