@@ -18,6 +18,9 @@ I'm a frontend developer with 4+ years of experience in implementation and manit
 #### Some stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chicojunior)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **chicojunior/chicojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
