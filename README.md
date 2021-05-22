@@ -4,7 +4,7 @@ I'm a frontend developer with 4+ years of experience in implementation and manit
 #### About me:
 
 - :earth_americas: I'm from Fortaleza, Brazil
-- 🔭 I’m currently working at [ALTRAN Portugal](https://www.altran.com/pt).
+- 🔭 I’m currently working at [Capgemini Engineering](https://capgemini-engineering.com/pt/pt-pt/).
 - 💬 Ask me about front-end in general and Angular.
 - 🌱 I’m currently learning React and Node.
 - ⚡ Fun fact: I got goosebumps when I hear certain chords progressions.
