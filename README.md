@@ -9,6 +9,14 @@ I'm a frontend developer with 4+ years of experience in implementation and manit
 - 🌱 I’m currently learning React and Node.
 - ⚡ Fun fact: I got goosebumps when I hear certain chords progressions.
 
+#### Skills:
+
+![HTML5](https://img.shields.io/badge/-HTML5-orange?&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-blue?&logo=css3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-yellow?&logo=javascript&logoColor=FFFFFF)
+
+### Frameworks:
+
+![Angular](https://img.shields.io/badge/-Angular-red?&logo=angular&logoColor=FFFFFF) ![Material Angular](https://img.shields.io/badge/-Angular%20Material-red?&logo=angular&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?&logo=bootstrap&logoColor=FFFFFF) ![Ionic](https://img.shields.io/badge/-ionic-blue?&logo=ionic&logoColor=FFFFFF)
+
 #### Reach me:
 
 - 📫 Via email [fdovalejr@gmail.com](mailto:fdovalejr@gmail.com)
