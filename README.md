@@ -1,5 +1,5 @@
 ### Hi there, I'm Chico 👋
-I'm a frontend developer with 5+ years of experience in implementation and manitenance of web applications using HTML, CSS, JS and Angular.
+I'm a frontend developer with 6+ years of experience in implementation and manitenance of web applications using HTML, CSS, JS and Angular.
 
 ### About me:
 
