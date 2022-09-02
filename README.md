@@ -4,7 +4,7 @@ I'm a frontend developer with 6+ years of experience in implementation and manit
 ### About me:
 
 - :earth_americas: I'm from Fortaleza, Brazil
-- 🔭 I’m currently working at [Capgemini Engineering](https://capgemini-engineering.com/pt/pt-pt/).
+- 🔭 I’m currently working at [Findmore](https://www.findmore.pt/).
 - 💬 Ask me about front-end in general and Angular.
 - 🌱 I’m currently learning React and Node.
 - ⚡ Fun fact: I got goosebumps when I hear certain chords progressions.
