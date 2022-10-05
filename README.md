@@ -1,21 +1,17 @@
 ### Hi there, I'm Chico 👋
-I'm a frontend developer with 6+ years of experience in implementation and manitenance of web applications using HTML, CSS, JS and Angular.
+I'm a frontend developer with 6+ years of experience in implementation and maintenance of web applications using HTML, CSS, JS, Angular and Typescript.
 
 ### About me:
 
-- :earth_americas: I'm from Fortaleza, Brazil
-- 🔭 I’m currently working at [Findmore](https://www.findmore.pt/).
-- 💬 Ask me about front-end in general and Angular.
-- 🌱 I’m currently learning React and Node.
-- ⚡ Fun fact: I got goosebumps when I hear certain chords progressions.
+- :earth_americas: I'm from Fortaleza/Brazil, currently living in the beautiful Porto/Portugal.
+- 🔭 I’m currently working at [Findmore Consulting](https://www.findmore.pt/).
+- 💬 Ask me about HTML, CSS, Javascript and Angular.
+- 🌱 I’m currently learning React and Node.js.
+- ⚡ Fun fact: I'm always creating songtracks for everything (in my head or not).
 
-### Skills:
+### Tech Stack:
 
-![HTML5](https://img.shields.io/badge/-HTML5-orange?&logo=html5&logoColor=FFFFFF) ![CSS3](https://img.shields.io/badge/-CSS3-blue?&logo=css3&logoColor=FFFFFF) ![Javascript](https://img.shields.io/badge/-Javascript-yellow?&logo=javascript&logoColor=FFFFFF)
-
-### Frameworks:
-
-![Angular](https://img.shields.io/badge/-Angular-red?&logo=angular&logoColor=FFFFFF) ![Material Angular](https://img.shields.io/badge/-Angular%20Material-red?&logo=angular&logoColor=FFFFFF) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?&logo=bootstrap&logoColor=FFFFFF) ![Ionic](https://img.shields.io/badge/-ionic-blue?&logo=ionic&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular Material](https://img.shields.io/badge/angular_material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&color=E91E63) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Reach me:
 
@@ -23,9 +19,10 @@ I'm a frontend developer with 6+ years of experience in implementation and manit
 - :page_with_curl: Via [LinkedIn](https://www.linkedin.com/in/franciscovale/)
 
 ### Some stats:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chicojunior&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&layout=compact&theme=merko)
-
-
+![](https://github-readme-stats.vercel.app/api?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chicojunior&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-profile-trophy.vercel.app/?username=chicojunior&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 **chicojunior/chicojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
