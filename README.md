@@ -4,7 +4,7 @@ I'm a frontend developer with 6+ years of experience in implementation and maint
 ### About me:
 
 - :earth_americas: I'm from Fortaleza/Brazil, currently living in the beautiful Porto/Portugal.
-- 🔭 I’m currently working at [Findmore Consulting](https://www.findmore.pt/).
+<!-- - 🔭 I’m currently working at [Findmore Consulting](https://www.findmore.pt/). -->
 - 💬 Ask me about HTML, CSS, Javascript and Angular.
 - 🌱 I’m currently learning React and Node.js.
 - ⚡ Fun fact: I'm always creating songtracks for everything (in my head or not).
