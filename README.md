@@ -3,8 +3,7 @@ I'm a frontend developer with 6+ years of experience in implementation and maint
 
 ### About me:
 
-- :earth_americas: I'm from Fortaleza/Brazil, currently living in the beautiful Porto/Portugal.
-<!-- - 🔭 I’m currently working at [Findmore Consulting](https://www.findmore.pt/). -->
+- :earth_americas: I'm from Fortaleza/Brazil, currently living in the Porto/Portugal.
 - 💬 Ask me about HTML, CSS, Javascript and Angular.
 - 🌱 I’m currently learning React and Node.js.
 - ⚡ Fun fact: I'm always creating songtracks for everything (in my head or not).
@@ -26,4 +25,5 @@ I'm a frontend developer with 6+ years of experience in implementation and maint
 
 <!--
 **chicojunior/chicojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Findmore Consulting](https://www.findmore.pt/).
 -->
