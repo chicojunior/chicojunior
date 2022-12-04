@@ -20,7 +20,7 @@ I'm a frontend developer with 7 years of experience in implementation and mainte
 ### Some stats:
 <p align="center">
 <a href="https://github.com/chicojunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chicojunior&theme=dark&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   
