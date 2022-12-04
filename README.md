@@ -18,10 +18,17 @@ I'm a frontend developer with 7 years of experience in implementation and mainte
 - :page_with_curl: Via [LinkedIn](https://www.linkedin.com/in/franciscovale/)
 
 ### Some stats:
-![](https://github-readme-stats.vercel.app/api?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center">
+<a href="https://github.com/chicojunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
+</p>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chicojunior&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-profile-trophy.vercel.app/?username=chicojunior&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=chicojunior&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!--
 **chicojunior/chicojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
