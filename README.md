@@ -3,10 +3,10 @@ I'm a frontend developer with 7 years of experience in implementation and mainte
 
 ### About me
 
-- :earth_americas: I'm from Fortaleza/Brazil, currently living in the Porto/Portugal.
-- 💬 Ask me about HTML, CSS, Javascript and Angular.
+- :earth_americas: I'm from Fortaleza/Brazil, currently living in Porto/Portugal.
+- 💬 Ask me about HTML, CSS, Javascript, and Angular.
 - 🌱 I’m currently learning React and Node.js.
-- ⚡ Fun fact: I'm always creating songtracks for everything (in my head or not).
+- ⚡ Fun fact: I'm always creating soundtracks for everything (in my head or not).
 
 ### Tech Stack
 
@@ -21,6 +21,7 @@ I'm a frontend developer with 7 years of experience in implementation and mainte
 - 📫 Via email [fdovalejr@gmail.com](mailto:fdovalejr@gmail.com)
 - :page_with_curl: Via [LinkedIn](https://www.linkedin.com/in/franciscovale/)
 
+<!--
 ### Some stats
 
 <p align="center">
@@ -31,6 +32,7 @@ I'm a frontend developer with 7 years of experience in implementation and mainte
   
 </a>
 </p>
+-->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=chicojunior&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chicojunior&theme=dark&hide_border=false)<br/>
