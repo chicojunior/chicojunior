@@ -6,13 +6,13 @@ Front-End Developer
 
 I have 8 years of experience as a Front-end Developer. I specialize in crafting user-friendly and responsive web interfaces using Angular and TypeScript.
 
-* 🌍  I'm from Fortaleza/BR, currently based in Porto/PT.
-* 🖥️  See my portfolio at [chicojunior.github.io](http://chicojunior.github.io/)
-* ✉️  You can contact me at [fdovalejr@gmail.com](mailto:fdovalejr@gmail.com)
-* 🚀  I'm currently working at [Mozantech](http://mozantech.com)
-* 🧠  I'm learning React, Node and Go
-* 💬 Ask me about HTML, CSS, Javascript, and Angular.
-* ⚡ Fun fact: I'm always creating soundtracks for everything (in my head or not).
+🌍  I'm from Fortaleza/BR, currently based in Porto/PT.
+🖥️  See my portfolio at [chicojunior.github.io](http://chicojunior.github.io/)
+✉️  You can contact me at [fdovalejr@gmail.com](mailto:fdovalejr@gmail.com)
+🚀  I'm currently working at [Mozantech](http://mozantech.com)
+🧠  I'm learning React, Node and Go
+💬 Ask me about HTML, CSS, Javascript, and Angular.
+⚡ Fun fact: I'm always creating soundtracks for everything (in my head or not).
 
 <a href="https://www.github.com/chicojunior" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chicojunior?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.x.com/chicovjr" target="_blank" rel="noreferrer"><img
