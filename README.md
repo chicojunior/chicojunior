@@ -4,7 +4,24 @@ Hi 👋, <br /> My name is Francisco Vale
 Front-End Developer
 -------------------
 
-I have 8 years of experience as a Front-end Developer. I specialize in crafting user-friendly and responsive web interfaces using Angular and TypeScript.
+With over 8 years of experience as a Front-end Developer, I specialize in building intuitive and responsive web interfaces, primarily using Angular and TypeScript.
+
+🌍 Based in Porto, Portugal (originally from Fortaleza, Brazil).
+
+🖥️  Explore my portfolio at chicojunior.com.
+
+✉️  Feel free to reach out to me at fdovalejr@gmail.com.
+
+🚀  Currently honing my skills at Mozantech.
+
+🧠  Expanding my knowledge with React, Node.js, and Go.
+
+💬  I'm always open to discussing HTML, CSS, JavaScript, and Angular.
+
+⚡ Beyond coding, I have a passion for music, video games, RPGs, and motorsports.
+
+<!--
+I have 8+ years of experience as a Front-end Developer. I specialize in crafting user-friendly and responsive web interfaces using Angular and TypeScript.
 
 🌍  I'm from Fortaleza/BR, based in Porto/PT.
 
@@ -19,6 +36,7 @@ I have 8 years of experience as a Front-end Developer. I specialize in crafting 
 💬 Ask me about HTML, CSS, Javascript, and Angular.
 
 ⚡ Other than work I like to talk about music, video games, RPGs, and motorsports.
+-->
 
 <a href="https://www.github.com/chicojunior" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chicojunior?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.x.com/chicovjr" target="_blank" rel="noreferrer"><img
