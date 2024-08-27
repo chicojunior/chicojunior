@@ -1,6 +1,4 @@
-Hi 👋 
-
-My name is Francisco Vale
+Hi 👋, <br /> My name is Francisco Vale
 ===============================
 
 Front-End Developer
