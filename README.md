@@ -4,7 +4,7 @@ Hi 👋 <br /> My name is Francisco Vale
 Front-End Developer
 -------------------
 
-With over 8 years of experience as a Front-end Developer, I specialize in building intuitive and responsive web interfaces, primarily using Angular and TypeScript.
+I’ve been working as a Front-end Developer since 2015, specializing in building intuitive and responsive web interfaces with a focus on Angular and TypeScript.
 
 🌍 Based in Porto, Portugal (originally from Fortaleza, Brazil).
 
