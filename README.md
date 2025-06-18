@@ -8,17 +8,17 @@ With over 8 years of experience as a Front-end Developer, I specialize in buildi
 
 🌍 Based in Porto, Portugal (originally from Fortaleza, Brazil).
 
-🖥️  Explore my portfolio at chicojunior.com.
+🖥️  Explore my portfolio [here](http://chicojunior.github.io/).
 
 ✉️  Feel free to reach out to me at fdovalejr@gmail.com.
 
-🚀  Currently honing my skills at Mozantech.
+🚀  Currently showing my skills at Mozantech.
 
 🧠  Expanding my knowledge with React, Node.js, and Go.
 
 💬  I'm always open to discussing HTML, CSS, JavaScript, and Angular.
 
-⚡ Beyond coding, I have a passion for music, video games, RPGs, and motorsports.
+ ⚡  Beyond coding, I have a passion for music, video games, RPGs, and motorsports.
 
 <!--
 I have 8+ years of experience as a Front-end Developer. I specialize in crafting user-friendly and responsive web interfaces using Angular and TypeScript.
