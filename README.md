@@ -92,7 +92,3 @@ There is a statistically significant chance I'm doing at least two of these whil
 * **GitHub:** [github.com/chicojunior](https://github.com/chicojunior)
 * **Email:** [fdovalejr@gmail.com](mailto:fdovalejr@gmail.com)
 * **X / Twitter:** [@chicovjr](https://x.com/chicovjr)
-
----
-
-*“I code the part users yell at.”*
