@@ -1,90 +1,110 @@
-Hi 👋 <br /> My name is Francisco Vale
-===============================
+````md
+# Hey, I'm Francisco — but Chico works too 👋
 
-Front-End Developer
--------------------
+### Frontend Engineer · Angular · TypeScript · Web Architecture
 
-I’ve been working as a Front-end Developer since 2015, specializing in building intuitive and responsive web interfaces with a focus on Angular and TypeScript.
+> I build frontends that survive redesigns, framework upgrades, legacy code  
+> and those suspiciously simple _"can we make a small change?"_ requests.
 
-🌍 Based in Porto, Portugal (originally from Fortaleza, Brazil).
+I'm a Frontend Engineer from 🇧🇷 **Fortaleza, Brazil**, currently based in 🇵🇹 **Porto, Portugal**.
 
-🖥️  Explore my portfolio [here](http://chicojunior.github.io/).
+I've been building web applications professionally since **2015**, mostly in enterprise environments and distributed international teams.
 
-✉️  Feel free to reach out to me at fdovalejr@gmail.com.
+My main playground is **Angular + TypeScript**, with a particular interest in frontend architecture, modernization, reusable components, testing and making large applications easier to maintain.
 
-🚀  Currently showing my skills at Mozantech.
+---
 
-🧠  Expanding my knowledge with React, Node.js, and Go.
+## 🧑‍💻 What I do
 
-💬  I'm always open to discussing HTML, CSS, JavaScript, and Angular.
+- 🅰️ Build and evolve large-scale **Angular applications**
+- 🏗️ Work on **frontend architecture** and technical design
+- ♻️ Turn duplicated UI into **reusable components and shared libraries**
+- 🧹 Modernize legacy applications and incrementally reduce technical debt
+- 📱 Build responsive interfaces for desktop, tablet and mobile
+- 🧪 Care about testing, maintainability and boringly reliable releases
+- 🤝 Work closely with product, design, backend and QA teams
 
- ⚡  Beyond coding, I have a passion for music, video games, RPGs, and motorsports.
+Currently working on enterprise web applications in an international environment.
 
-<!--
-I have 8+ years of experience as a Front-end Developer. I specialize in crafting user-friendly and responsive web interfaces using Angular and TypeScript.
+---
 
-🌍  I'm from Fortaleza/BR, based in Porto/PT.
+## 🧰 My toolbox
 
-🖥️  See my portfolio at [chicojunior.com](http://chicojunior.github.io/).
+### Core
 
-✉️  You can contact me at [fdovalejr@gmail.com](mailto:fdovalejr@gmail.com).
-
-🚀  I'm currently working at [Mozantech](http://mozantech.com).
-
-🧠  I'm learning React, Node, and Go.
-
-💬 Ask me about HTML, CSS, Javascript, and Angular.
-
-⚡ Other than work I like to talk about music, video games, RPGs, and motorsports.
--->
-
-<a href="https://www.github.com/chicojunior" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/chicojunior?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a><a href="https://www.x.com/chicovjr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/chicovjr?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
-/></a>
-
-### Skills
-
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="60" alt="html5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="60" alt="css3" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60" alt="javascript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="60" alt="typescript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="60" width="60" alt="angularjs" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60" width="60" alt="sass" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" height="60" width="60" alt="jasmine" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" width="60" alt="jest" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" height="60" width="60" alt="ngrx" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="60" alt="git" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="42" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="42" alt="RxJS" />
 </p>
 
+### Testing & Engineering
 
-### Socials
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="42" alt="Playwright" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" width="42" alt="Jasmine" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="42" alt="Jest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/chicojunior" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/franciscovale" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/chicovjr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+### Exploring
 
-<a href="https://app.daily.dev/fdovalejr"><img src="https://api.daily.dev/devcards/v2/-wWvfWyqx.png?type=default&r=lcj" width="356" alt="Francisco Vale's Dev Card"/></a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" alt="Node.js" />
+</p>
 
-<!--
-## Hi there, I'm Chico 👋
-I'm a front-end developer with 7+ years of experience implementing and maintaining web applications using HTML, CSS, JS, Angular, and Typescript.
+> Mostly Angular. Increasingly React.  
+> Occasionally asking why CSS is doing *that*.
 
-### About me
+---
 
-- :earth_americas: I'm from Fortaleza/Brazil, currently living in Porto/Portugal.
-- 💬 Ask me about HTML, CSS, Javascript, and Angular.
-- 🌱 I’m currently learning React and Node.js.
-- ⚡ Fun fact: I'm always creating soundtracks for everything (in my head or not).
+## 🔭 Things I'm interested in
 
-### Tech Stack
+```text
+frontend architecture
+├── scalable Angular applications
+├── design systems & shared component libraries
+├── legacy modernization
+├── testing strategy
+├── web performance
+├── accessibility
+└── AI-assisted software engineering
+````
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" width="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="100" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="100" width="100"/>
+I'm particularly interested in the space between **"it works"** and
+**"we can still understand this code two years from now."**
 
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular Material](https://img.shields.io/badge/angular_material-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&color=E91E63) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+## 🎸 Outside the editor
 
+When I'm not staring at TypeScript:
 
-### Reach me
+* 🎸 I'm probably playing guitar or bass
+* 🎛️ tweaking a pedalboard that definitely didn't need another pedal
+* 🎮 playing video games
+* 🎲 thinking about RPGs
+* 🏎️ watching motorsports
 
-- 📫 Via email [fdovalejr@gmail.com](mailto:fdovalejr@gmail.com)
-- :page_with_curl: Via [LinkedIn](https://www.linkedin.com/in/franciscovale/)
+There is a statistically significant chance I'm doing at least two of these while thinking about code.
 
--->
+---
 
+## 🌐 Find me elsewhere
 
-<!--
-**chicojunior/chicojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working at [Findmore Consulting](https://www.findmore.pt/).
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francisco_Vale-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/franciscovale)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chicojunior.github.io-222222?style=flat-square\&logo=githubpages\&logoColor=white)](https://chicojunior.github.io/)
+[![Email](https://img.shields.io/badge/Email-fdovalejr%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:fdovalejr@gmail.com)
+
+---
+
+<sub>
+Frontend engineer by profession.  
+Professional overthinker of component APIs by circumstance.
+</sub>
+```
