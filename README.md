@@ -49,7 +49,7 @@ Currently working on enterprise web applications in an international environment
 ### Exploring
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 > Mostly Angular. Increasingly React.
 > Occasionally asking why CSS is doing *that*.
